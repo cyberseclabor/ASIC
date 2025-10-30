@@ -3,7 +3,7 @@ use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 
 entity szamol is
-	port(C, CLK, CLR : in std_logic;
+	port(CLK, CLR : in std_logic;
 		Q : out std_logic_vector(3 downto 0));
 end szamol;
 
@@ -26,3 +26,4 @@ begin
 
 
 end BEH;
+
