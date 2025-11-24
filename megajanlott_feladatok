@@ -1,17 +1,60 @@
-Készítsen el egy programozható felbontású soros összeadót (4-32 bit)	 	 
-Valósítson meg egy 8 bit szélességű, 32-es mélységű FIFO memóriát.	 	 
-Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-999)	 	 
-Valósítson meg egy tetszőleges felbontású aritmetikai egységet. A felbontás a fordítás előtt állítható be.	 	 
-Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-99)	11.09	5
-Készítsen el e programozható PWM modult	 	5
-Valósítson meg egy 32/1-es multiplexert függvénnyel
-Valósítson meg egy frekvenciaszámlálót	 	 
-A CoolRunner II. tesztpanelon valósítson meg egy számlálót (0 - min.1000), az eredményt jelenítse meg LCD-n
-Valósítson meg egy tetszőleges (kettő egésszámú hatványa lehet) bementszámú multiplexert	 	 
-
-Készítse el a PIC18F Timer0 időzítőjét/számlálójat.	 	 
-Készítsen el e programozható PWM modult	 	 
-Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-999)	 	 
-Valósítson meg egy 32/1-es multiplexert függvénnyel
-Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-99)
-Valósítson meg egy 8 bites aritmetikai egységet (összeadás, kivonás, szorzás, osztás)
+1. Készítsen el egy programozható felbontású soros összeadót (4-32 bit)	 	 
+2. Valósítson meg egy 8 bit szélességű, 32-es mélységű FIFO memóriát.	 	 
+3. Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-999)	 	 
+4. Valósítson meg egy tetszőleges felbontású aritmetikai egységet. A felbontás a fordítás előtt állítható be.	 	 
+5. Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-99)	11.09	5
+6. Készítsen el e programozható PWM modult	 	5
+7. Valósítson meg egy 32/1-es multiplexert függvénnyel
+8. Valósítson meg egy frekvenciaszámlálót	 	 
+9. Valósítson meg egy tetszőleges (kettő egésszámú hatványa lehet) bementszámú multiplexert	 	 
+10. Készítse el a PIC18F Timer0 időzítőjét/számlálójat.	 	 
+11. Készítsen el e programozható PWM modult	 	 
+12. Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-999)	 	 
+13. Valósítson meg egy 32/1-es multiplexert függvénnyel
+14. Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-99)
+15. Valósítson meg egy 8 bites aritmetikai egységet (összeadás, kivonás, szorzás, osztás)
+16. Valósítson meg egy 32/1-es multiplexert függvénnyel
+17. Valósítson meg egy tetszőleges (kettő egésszámú hatványa lehet) bementszámú multiplexert.
+18. Készítsen el e programozható PWM modult
+19. Készítsen el egy SPI modult
+20. Valósítson meg egy 8 bites aritmetikai egységet (összeadás, kivonás, szorzás, osztás)
+21. Valósítson meg egy frekvenciaszámlálót.
+22. Készítsen el egy CNN-t. A bemenetek szélessége 8 bit.
+23. Adott egy 10 bites, soros átalakítású A/D konverter. Bemenetei : ENG, Analóg jel. Az A/D átalakítás után az "OK" kimenet 0-ból 1-be vált. Készítse el az A/D vezérlését.
+24. Készítsen el egy CNN-t. A bemenetek szélessége 16 bit.
+25. Készítsen el egy neurális áramkört (Hopfield). A bemenetek szélessége 8 bit.
+26. Valósítson meg egy 32/1-es multiplexert függvénnyel
+27. Valósítson meg egy 8 bit szélességű, 32-es mélységű FIFO memóriát.
+28. Valósítson meg egy frekvenciaszámlálót.
+29. Készítsen el egy 8/16 bites időzítő/számláló egységet. Az osztási arány beállítható.
+30. Valósítson meg egy 8 bit szélességű, 32-es mélységű FIFO memóriát.
+31. Valósítson meg egy programozható szélességű aritmetikai egységet. A felbontás beállítása a VHDL kód fordítása előtt történik.
+32. Készítsen el egy programozható felbontású soros összeadót (4-32 bit)
+33. Készítsen egy utasításdekódert (32 bites az utasítás, 24 bites címmel rendelkezik). 48 utasítás kell.
+34. Valósítson meg egy utasításdekódert (32 bites utasítás, 24 bites cím)
+35. Készítsen el 16 bites, 100K-s memóriát
+36. Készítsen el egy programozható szélességű (8, 16, 32 bites), 100K-s memóriát
+37. Valósítson meg egy tetszőleges felbontású aritmetikai egységet. A felbontás a fordítás előtt állítható be.
+38. Készítsen egy olyan aritmetikai egységet, amelynek a felbontása működés közben változtatható (8, 16, 32, 64 bit)
+39. Készítsen egy olyan aritmetikai egységet, amelynek a felbontása a VHDL file fordítása előtt változtatható (8, 16, 32, 64 bit)
+40. Valósítson meg egy bináris - hétszegmenses dekódert. Legyen kaszkádosítható.
+41. Van egy 3x4-es nyomógombsor. Készítsen egy olyan áramkört, amely binárisan megjeleníti a lenyomott szám értékét (0 - 15).
+42. Valósítson meg egy programozható szélességű (3 - 16 bit) párhuzamos összeadót (LACA).
+43. Készítsen el egy olyan FSM-et, amely max 10 állapotból állhat, és bármelyik állapotból visszacsatolhatjuk a 0. állapotba.
+44. Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-9)
+45. Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-99)
+46. Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-999)
+47. Készítsen el egy függvénykönyvtárat, amely a következő műveleteket ismeri : minimum / maximumkeresés, 1-es és 2-es komplemensképzés.
+48. Valósítson meg egy egycsatornás, digitális jelgenerátort.
+49. Valósítson meg egy aritmetikai logikai egységet (ALU), amely a négy alapművelet megvalósítására képes.
+50. Készítsen el egy tetszőleges felbontású összeadót teljes összeadók (Full Adder) felhasználásával.
+51. Készítsen el egy tetszőleges felbontású összeadót viselkedési szinten.
+52. Készítsen el egy bináris / hétszegmenses átalakítót (0 - 10000).
+53. Készítse el a PIC18F Timer0 időzítőjét/számlálójat.
+54. Van két nyomógomb (B1, B2). Ha a a B1-et megnyomjuk, akkor a PWM kitöltési tényezőjét növelem. Ha a B2-t, akkor csökkentem. A megvalósítandó áramkör felbontása min. 50.
+55. Készítsen el egy FSM-et, amelynek "n" állapota lehet. A "n" a programban fordítás előtt beállítható. S0->S1->S2->......->Sn->S0
+56. Valósítson meg egy 22 bites szélességű PC-t (Program Counter a mikrovezérlőben). Ne tartalmazzon megszakítási lehetőséget.
+57. Valósítson meg egy 22 bites szélességű PC-t (Program Counter a mikrovezérlőben). Tartalmazzon egy megszakítási lehetőséget (pl.. van egy "int" bemenet, ha logikai 1-ben van, akkor a PC a 0x12 címre ugrik).
+58. Készítsen el egy 16 bites kódolót és dekódolót. A bejövő 16 bites adatot kódolja, majd a dekódoló visszaalakítja az eredeti számmá.
+59. Valósítson meg egy olyan 8 bites jelgenerátort, amelyben a színuszjel digitalizált értékeit ROM-ban tároljuk. A ROM-ot külön csomagban készítse el.
+60. Valósítson meg egy olyan 8 bites jelgenerátort, amelyben a színuszjel digitalizált értékeit ROM-ban tároljuk. A ROM megvalósításánál nem használhat külön csomagot.
