@@ -1,0 +1,17 @@
+Készítsen el egy programozható felbontású soros összeadót (4-32 bit)	 	 
+Valósítson meg egy 8 bit szélességű, 32-es mélységű FIFO memóriát.	 	 
+Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-999)	 	 
+Valósítson meg egy tetszőleges felbontású aritmetikai egységet. A felbontás a fordítás előtt állítható be.	 	 
+Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-99)	11.09	5
+Készítsen el e programozható PWM modult	 	5
+Valósítson meg egy 32/1-es multiplexert függvénnyel
+Valósítson meg egy frekvenciaszámlálót	 	 
+A CoolRunner II. tesztpanelon valósítson meg egy számlálót (0 - min.1000), az eredményt jelenítse meg LCD-n
+Valósítson meg egy tetszőleges (kettő egésszámú hatványa lehet) bementszámú multiplexert	 	 
+
+Készítse el a PIC18F Timer0 időzítőjét/számlálójat.	 	 
+Készítsen el e programozható PWM modult	 	 
+Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-999)	 	 
+Valósítson meg egy 32/1-es multiplexert függvénnyel
+Készítsen egy számlálót, az eredményt hétszegmenses kijelzőn ábrázolja (0-99)
+Valósítson meg egy 8 bites aritmetikai egységet (összeadás, kivonás, szorzás, osztás)
